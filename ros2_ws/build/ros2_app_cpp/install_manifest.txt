@@ -1,0 +1,15 @@
+/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ament_index/resource_index/package_run_dependencies/ros2_app_cpp
+/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ament_index/resource_index/parent_prefix_path/ros2_app_cpp
+/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/environment/ament_prefix_path.sh
+/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/environment/ament_prefix_path.dsv
+/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/environment/path.sh
+/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/environment/path.dsv
+/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/local_setup.bash
+/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/local_setup.sh
+/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/local_setup.zsh
+/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/local_setup.dsv
+/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/package.dsv
+/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ament_index/resource_index/packages/ros2_app_cpp
+/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/cmake/ros2_app_cppConfig.cmake
+/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/cmake/ros2_app_cppConfig-version.cmake
+/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/package.xml

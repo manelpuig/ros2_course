@@ -1,0 +1,8 @@
+prefix=/home/mpuig/ros1_ws/devel
+
+Name: ros1_app_py
+Description: Description of ros1_app_py
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

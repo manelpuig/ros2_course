@@ -1,0 +1,20 @@
+[0.020s] Invoking command in '/home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mpuig/ros2_course/ros2_ws/install/ros2_app_py:/opt/ros/foxy /usr/bin/cmake --build /home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp -- -j4 -l4
+[0.192s] Invoked command in '/home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mpuig/ros2_course/ros2_ws/install/ros2_app_py:/opt/ros/foxy /usr/bin/cmake --build /home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp -- -j4 -l4
+[0.218s] Invoking command in '/home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mpuig/ros2_course/ros2_ws/install/ros2_app_py:/opt/ros/foxy /usr/bin/cmake --install /home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp
+[0.231s] -- Install configuration: ""
+[0.236s] -- Up-to-date: /home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ament_index/resource_index/package_run_dependencies/ros2_app_cpp
+[0.236s] -- Up-to-date: /home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ament_index/resource_index/parent_prefix_path/ros2_app_cpp
+[0.236s] -- Up-to-date: /home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/environment/ament_prefix_path.sh
+[0.237s] -- Up-to-date: /home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/environment/ament_prefix_path.dsv
+[0.237s] -- Up-to-date: /home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/environment/path.sh
+[0.237s] -- Up-to-date: /home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/environment/path.dsv
+[0.237s] -- Up-to-date: /home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/local_setup.bash
+[0.237s] -- Up-to-date: /home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/local_setup.sh
+[0.237s] -- Up-to-date: /home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/local_setup.zsh
+[0.237s] -- Up-to-date: /home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/local_setup.dsv
+[0.237s] -- Up-to-date: /home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/package.dsv
+[0.237s] -- Up-to-date: /home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ament_index/resource_index/packages/ros2_app_cpp
+[0.237s] -- Up-to-date: /home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/cmake/ros2_app_cppConfig.cmake
+[0.237s] -- Up-to-date: /home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/cmake/ros2_app_cppConfig-version.cmake
+[0.237s] -- Up-to-date: /home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp/share/ros2_app_cpp/package.xml
+[0.244s] Invoked command in '/home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mpuig/ros2_course/ros2_ws/install/ros2_app_py:/opt/ros/foxy /usr/bin/cmake --install /home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp

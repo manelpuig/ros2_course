@@ -1,0 +1,36 @@
+[0.373s] Invoking command in '/home/mpuig/ros2_course/ros2_ws/src/ros2_app_py': PYTHONPATH=/home/mpuig/ros2_course/ros2_ws/install/ros2_app_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_app_py build --build-base /home/mpuig/ros2_course/ros2_ws/build/ros2_app_py/build install --prefix /home/mpuig/ros2_course/ros2_ws/install/ros2_app_py --record /home/mpuig/ros2_course/ros2_ws/build/ros2_app_py/install.log --single-version-externally-managed
+[0.534s] running egg_info
+[0.535s] creating ../../build/ros2_app_py/ros2_app_py.egg-info
+[0.535s] writing ../../build/ros2_app_py/ros2_app_py.egg-info/PKG-INFO
+[0.535s] writing dependency_links to ../../build/ros2_app_py/ros2_app_py.egg-info/dependency_links.txt
+[0.535s] writing entry points to ../../build/ros2_app_py/ros2_app_py.egg-info/entry_points.txt
+[0.535s] writing requirements to ../../build/ros2_app_py/ros2_app_py.egg-info/requires.txt
+[0.535s] writing top-level names to ../../build/ros2_app_py/ros2_app_py.egg-info/top_level.txt
+[0.537s] writing manifest file '../../build/ros2_app_py/ros2_app_py.egg-info/SOURCES.txt'
+[0.563s] reading manifest file '../../build/ros2_app_py/ros2_app_py.egg-info/SOURCES.txt'
+[0.564s] writing manifest file '../../build/ros2_app_py/ros2_app_py.egg-info/SOURCES.txt'
+[0.564s] running build
+[0.564s] running build_py
+[0.564s] creating /home/mpuig/ros2_course/ros2_ws/build/ros2_app_py/build
+[0.564s] creating /home/mpuig/ros2_course/ros2_ws/build/ros2_app_py/build/lib
+[0.564s] creating /home/mpuig/ros2_course/ros2_ws/build/ros2_app_py/build/lib/ros2_app_py
+[0.564s] copying ros2_app_py/__init__.py -> /home/mpuig/ros2_course/ros2_ws/build/ros2_app_py/build/lib/ros2_app_py
+[0.564s] copying ros2_app_py/number_publisher.py -> /home/mpuig/ros2_course/ros2_ws/build/ros2_app_py/build/lib/ros2_app_py
+[0.564s] running install
+[0.565s] running install_lib
+[0.565s] creating /home/mpuig/ros2_course/ros2_ws/install/ros2_app_py/lib/python3.8/site-packages/ros2_app_py
+[0.565s] copying /home/mpuig/ros2_course/ros2_ws/build/ros2_app_py/build/lib/ros2_app_py/__init__.py -> /home/mpuig/ros2_course/ros2_ws/install/ros2_app_py/lib/python3.8/site-packages/ros2_app_py
+[0.566s] copying /home/mpuig/ros2_course/ros2_ws/build/ros2_app_py/build/lib/ros2_app_py/number_publisher.py -> /home/mpuig/ros2_course/ros2_ws/install/ros2_app_py/lib/python3.8/site-packages/ros2_app_py
+[0.566s] byte-compiling /home/mpuig/ros2_course/ros2_ws/install/ros2_app_py/lib/python3.8/site-packages/ros2_app_py/__init__.py to __init__.cpython-38.pyc
+[0.567s] byte-compiling /home/mpuig/ros2_course/ros2_ws/install/ros2_app_py/lib/python3.8/site-packages/ros2_app_py/number_publisher.py to number_publisher.cpython-38.pyc
+[0.567s] running install_data
+[0.572s] creating /home/mpuig/ros2_course/ros2_ws/install/ros2_app_py/share/ament_index
+[0.573s] creating /home/mpuig/ros2_course/ros2_ws/install/ros2_app_py/share/ament_index/resource_index
+[0.573s] creating /home/mpuig/ros2_course/ros2_ws/install/ros2_app_py/share/ament_index/resource_index/packages
+[0.573s] copying resource/ros2_app_py -> /home/mpuig/ros2_course/ros2_ws/install/ros2_app_py/share/ament_index/resource_index/packages
+[0.573s] copying package.xml -> /home/mpuig/ros2_course/ros2_ws/install/ros2_app_py/share/ros2_app_py
+[0.573s] running install_egg_info
+[0.574s] Copying ../../build/ros2_app_py/ros2_app_py.egg-info to /home/mpuig/ros2_course/ros2_ws/install/ros2_app_py/lib/python3.8/site-packages/ros2_app_py-0.0.0-py3.8.egg-info
+[0.575s] running install_scripts
+[0.589s] writing list of installed files to '/home/mpuig/ros2_course/ros2_ws/build/ros2_app_py/install.log'
+[0.630s] Invoked command in '/home/mpuig/ros2_course/ros2_ws/src/ros2_app_py' returned '0': PYTHONPATH=/home/mpuig/ros2_course/ros2_ws/install/ros2_app_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_app_py build --build-base /home/mpuig/ros2_course/ros2_ws/build/ros2_app_py/build install --prefix /home/mpuig/ros2_course/ros2_ws/install/ros2_app_py --record /home/mpuig/ros2_course/ros2_ws/build/ros2_app_py/install.log --single-version-externally-managed

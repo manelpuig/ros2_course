@@ -1,0 +1,6 @@
+Invoking command in '/home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/mpuig/ros2_course/ros2_ws/src/ros2_app_cpp -DCMAKE_INSTALL_PREFIX=/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp
+Invoked command in '/home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/mpuig/ros2_course/ros2_ws/src/ros2_app_cpp -DCMAKE_INSTALL_PREFIX=/home/mpuig/ros2_course/ros2_ws/install/ros2_app_cpp
+Invoking command in '/home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp -- -j4 -l4
+Invoked command in '/home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp -- -j4 -l4
+Invoking command in '/home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp
+Invoked command in '/home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/mpuig/ros2_course/ros2_ws/build/ros2_app_cpp

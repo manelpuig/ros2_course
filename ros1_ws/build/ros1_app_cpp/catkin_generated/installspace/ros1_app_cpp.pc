@@ -1,0 +1,8 @@
+prefix=/home/mpuig/ros1_ws/install
+
+Name: ros1_app_cpp
+Description: Description of ros1_app_cpp
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
